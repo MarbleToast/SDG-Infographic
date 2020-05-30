@@ -1,0 +1,2721 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "DATASOURCE",
+                   "display": "Data Source"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "2.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "5.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "6.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "6.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "5.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "6.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "6.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "2.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "3.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "4.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "4.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "3.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2002"
+                        },
+                "Value": "3.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2001"
+                        },
+                "Value": "3.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2000"
+                        },
+                "Value": "3.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1995"
+                        },
+                "Value": "10"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "4.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "4.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "4.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "4.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "5.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "5.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "4.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "4.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "4.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "4.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "4.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "5.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2002"
+                        },
+                "Value": "5.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2001"
+                        },
+                "Value": "5.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2000"
+                        },
+                "Value": "4.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1999"
+                        },
+                "Value": "5.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "3.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1990"
+                        },
+                "Value": "8.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2002"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2001"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2000"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1999"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1998"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1997"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1995"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1994"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1993"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1992"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1991"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1990"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "2.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "2.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "2.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "1.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "2.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "11.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "11.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "3.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "3.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "3.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "0.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "0.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "6.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "6.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "5.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "4.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "1.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "3.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "1.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "4.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2002"
+                        },
+                "Value": "6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2001"
+                        },
+                "Value": "6.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2000"
+                        },
+                "Value": "5.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "3.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "1.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1995"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "2.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "1.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "1.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "1.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "3.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "3.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "3.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "4.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "0.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "DATASOURCE": "",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "DATASOURCE": "",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "DATASOURCE": "",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "DATASOURCE": "",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "1.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "1.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "1.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "1.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "1.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "5.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "5.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "5.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "4.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "4.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "4.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "1.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "1.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "1.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "0.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "0.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "0.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "0.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "0.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "3.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "3.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "3.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "3.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2002"
+                        },
+                "Value": "3.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2001"
+                        },
+                "Value": "5.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2000"
+                        },
+                "Value": "5.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2015"
+                        },
+                "Value": "3.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2014"
+                        },
+                "Value": "3.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2013"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2012"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2011"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2010"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2009"
+                        },
+                "Value": "2.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2008"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2007"
+                        },
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2006"
+                        },
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2005"
+                        },
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "2.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "2.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2002"
+                        },
+                "Value": "2.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2001"
+                        },
+                "Value": "1.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2000"
+                        },
+                "Value": "1.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1999"
+                        },
+                "Value": "2.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1998"
+                        },
+                "Value": "2.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1997"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "2.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1995"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1994"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1993"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1992"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1991"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1990"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "DATASOURCE": "Data source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1996"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2004"
+                        },
+                "Value": "3.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2003"
+                        },
+                "Value": "6.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2002"
+                        },
+                "Value": "6.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2001"
+                        },
+                "Value": "3.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "2000"
+                        },
+                "Value": "4.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "DATASOURCE": "Data Source",
+                          "GHO": "Alcoholic excise tax revenue as a per cent of government revenue",
+                          "YEAR": "1999"
+                        },
+                "Value": "5"
+              }
+      ]
+}
